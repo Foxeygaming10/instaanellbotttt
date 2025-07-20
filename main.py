@@ -2,10 +2,6 @@ import sqlite3
 import requests
 import telebot
 from telebot import types
-from stay_alive import keep_alive
-
-keep_alive()
-
 # --- CONFIGURATION ---
 BOT_TOKEN = "8055477611:AAHLLG0yv5Foow_fI_BoKn0zygG9mdOnlmU"
 CHANNEL_USERNAME = "@instapanelannouncement"
