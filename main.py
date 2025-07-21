@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "7542036622:AAHOzT_9LQVKbWb8AqsTmaWIM2_B54dcavg"
+BOT_TOKEN = "8055477611:AAHLLG0yv5Foow_fI_BoKn0zygG9mdOnlmU"
 CHANNEL_USERNAME = "@instapanelannouncement"
 ADMIN_ID = 5078131670  # Primary admin
 API_KEY = "c9a938d7f66e000f6d3631f15a322965"
